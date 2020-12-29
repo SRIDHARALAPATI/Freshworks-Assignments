@@ -2,7 +2,7 @@ import java.io.*;
 import java.lang.String;
 import java.util.*;
 import org.json.JSONObject; 
-public class BR 
+public class Freshworks
 {
  static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
  public void Insert( ) throws IOException
